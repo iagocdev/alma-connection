@@ -19,4 +19,8 @@ O **Alma** é um projeto de portfólio desenvolvido para desafiar a superficiali
 Este projeto demonstra competências em:
 - Arquitetura Full Stack.
 - Design System e UX/UI refinado.
+<<<<<<< HEAD
 - Criptografia e proteção de dados (AES-256).
+=======
+- Criptografia e proteção de dados (AES-256).
+>>>>>>> 69bb8d5 (feat: estrutura premium de autenticação do Alma)
